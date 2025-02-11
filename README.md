@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Oi! Bem-vinda(o) ao meu perfil✨
+## Meu nome é Marina mas você também pode me chamar de Nina!
 
-<!--
-**marinavasc/marinavasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou aluna da fundação de ensino COTEMIG! Atualmente trabalho em uma empresa de métodologias ágeis, trabalhando e aprendendo C#, UX, Figma, HTML, CSS e testes unitários com a biblioteca xUnit!
 
-Here are some ideas to get you started:
+- 🔭 No momento estou trabalhando como desenvolvedora de software e fazendo formações em UX e Figma;
+- 🌱 Aprendendo Kotlin e Swift, além de cursos externos e formações/treinamentos no meu estágio;
+- 👯 Quero estender minha carreira trabalhando com a área de design e tecnologia;
+- 😄 Pronouns: ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/marinavasc">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/marinavasc/marinavasc/blob/output/github-contribution-grid-snake.svg)
